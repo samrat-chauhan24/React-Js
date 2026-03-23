@@ -62,4 +62,4 @@ My approach for learning React:
 
 ## 📌 Note
 
-This repository contains **practice code and experiments** as part of my learning journey.
+This repository contains **practice code and experiments** as part of my learning journey, therefore i haven't edited the readme files per project.
