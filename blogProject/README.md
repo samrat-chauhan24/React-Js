@@ -1,0 +1,1 @@
+-> this is a blog website made using appwrite, react, tailwind
